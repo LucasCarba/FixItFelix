@@ -1,0 +1,5 @@
+tre 2100
+,mm 2000
+ERROR 1500
+sse 1300
+lucas 1300
